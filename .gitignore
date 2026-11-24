@@ -1,0 +1,8 @@
+wearlevel
+test_fb
+test_wl
+*.o
+__pycache__/
+bin/
+docs/
+tools/build_pdf.py
